@@ -14,7 +14,7 @@ public class GithubCicdActionsApplication {
 		return "Welcome to javatechie !";
 	}
 
-//	echo "# github-actions-example" >> README.md
+//	echo "# github-actions-example" >> README.md test
 //	git init
 //	git add README.md
 //	git commit -m "first commit"

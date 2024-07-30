@@ -23,6 +23,7 @@ public class GithubCicdActionsApplication {
 //	git push -u origin main
 	public static void main(String[] args) {
 		SpringApplication.run(GithubCicdActionsApplication.class, args);
+		System.out.println("test1");
 	}
 
 }
